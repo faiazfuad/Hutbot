@@ -1,2 +1,2 @@
 # Hutbot
-hutbot is a configuration
+hutbot is Test AI Chat agent for hatecholo.
